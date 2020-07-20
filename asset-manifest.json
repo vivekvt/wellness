@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/wellness/static/css/main.4fdebe9b.chunk.css",
+    "main.js": "/wellness/static/js/main.ea2438c4.chunk.js",
+    "main.js.map": "/wellness/static/js/main.ea2438c4.chunk.js.map",
+    "runtime-main.js": "/wellness/static/js/runtime-main.d33e48bd.js",
+    "runtime-main.js.map": "/wellness/static/js/runtime-main.d33e48bd.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/wellness/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5695fff4.chunk.js": "/wellness/static/js/2.5695fff4.chunk.js",
+    "static/js/2.5695fff4.chunk.js.map": "/wellness/static/js/2.5695fff4.chunk.js.map",
+    "index.html": "/wellness/index.html",
+    "precache-manifest.495ba21a0356ab1714c4b194ce14e1ee.js": "/wellness/precache-manifest.495ba21a0356ab1714c4b194ce14e1ee.js",
+    "service-worker.js": "/wellness/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/wellness/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.4fdebe9b.chunk.css.map": "/wellness/static/css/main.4fdebe9b.chunk.css.map",
+    "static/js/2.5695fff4.chunk.js.LICENSE.txt": "/wellness/static/js/2.5695fff4.chunk.js.LICENSE.txt",
+    "static/media/home.mp4": "/wellness/static/media/home.8c917a68.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d33e48bd.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.5695fff4.chunk.js",
+    "static/css/main.4fdebe9b.chunk.css",
+    "static/js/main.ea2438c4.chunk.js"
+  ]
+}
